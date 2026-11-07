@@ -1,0 +1,16 @@
+{
+  "name": "ปิ๊งป่อง",
+  "short_name": "ปิ๊งป่อง",
+  "description": "ปัดปุ๊บ ปิ๊งปั๊บ ควิซและปริศนาสั้นๆ ที่เลื่อนแล้วได้รู้",
+  "lang": "th",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0E0E12",
+  "theme_color": "#0E0E12",
+  "icons": [
+    {"src": "icons/icon-192.c705302bc3.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.2e24cb3f08.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
