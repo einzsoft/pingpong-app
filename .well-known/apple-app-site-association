@@ -1,0 +1,19 @@
+{
+ "applinks": {
+  "details": [
+   {
+    "appIDs": [
+     "HRBJH397T8.com.einzsoft.pingpong"
+    ],
+    "components": [
+     {
+      "/": "/",
+      "?": {
+       "c": "*"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}
