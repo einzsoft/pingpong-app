@@ -1,0 +1,15 @@
+[
+ {
+  "relation": [
+   "delegate_permission/common.handle_all_urls"
+  ],
+  "target": {
+   "namespace": "android_app",
+   "package_name": "com.einzsoft.pingpong",
+   "sha256_cert_fingerprints": [
+    "0E:7D:2F:AF:F7:C2:EE:6A:A4:32:6E:1B:75:76:BC:C6:47:0D:7D:B3:7C:46:C8:AD:2E:10:34:A6:3C:1F:A0:8D",
+    "F3:1D:71:CF:4C:87:7A:7D:0A:0A:E6:50:0E:CE:1A:D7:55:C8:42:F9:70:17:E7:13:EE:06:3C:3A:AF:83:A0:58"
+   ]
+  }
+ }
+]
